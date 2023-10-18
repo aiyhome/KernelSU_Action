@@ -1,4 +1,4 @@
-name: Build Kernel
+name: Lineageos-Build Kernel
 on:
   watch:
     types: [started]
